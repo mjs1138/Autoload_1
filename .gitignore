@@ -9,7 +9,7 @@ settings*.php
 *.tar.gz
 # *.sql
 
-# IDE files
+# IDE/Netbeans
 **/nbproject
 
 *.sublime*
